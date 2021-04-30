@@ -1,0 +1,13 @@
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\bin\Debug\netcoreapp3.1\variant 3.1.exe
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\bin\Debug\netcoreapp3.1\variant 3.1.deps.json
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\bin\Debug\netcoreapp3.1\variant 3.1.runtimeconfig.json
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\bin\Debug\netcoreapp3.1\variant 3.1.runtimeconfig.dev.json
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\bin\Debug\netcoreapp3.1\variant 3.1.dll
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\bin\Debug\netcoreapp3.1\variant 3.1.pdb
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\obj\Debug\netcoreapp3.1\variant 3.1.csprojAssemblyReference.cache
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\obj\Debug\netcoreapp3.1\variant 3.1.AssemblyInfoInputs.cache
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\obj\Debug\netcoreapp3.1\variant 3.1.AssemblyInfo.cs
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\obj\Debug\netcoreapp3.1\variant 3.1.csproj.CoreCompileInputs.cache
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\obj\Debug\netcoreapp3.1\variant 3.1.dll
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\obj\Debug\netcoreapp3.1\variant 3.1.pdb
+D:\Cavid doc\cernovik\variant 3.1\variant 3.1\obj\Debug\netcoreapp3.1\variant 3.1.genruntimeconfig.cache
